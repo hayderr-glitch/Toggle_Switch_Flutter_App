@@ -13,7 +13,7 @@ A simple Flutter application demonstrating the use of a `Switch` widget to contr
 
 Here's what the app looks like in both states.
 
-*(Note: You will need to create a folder, for example, `screenshots/`, in your project root, add your images there, and update the paths below if needed.)*
+*(Note: To display these images, create a `screenshots` folder in the project's root directory. Run the app, take a screenshot for both the "On" and "Off" states, name them `screenshot_on.png` and `screenshot_off.png` respectively, and place them inside the `screenshots` folder.)*
 
 | Off State | On State |
 | :---: | :---: |
