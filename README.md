@@ -13,6 +13,6 @@ A simple Flutter application demonstrating the use of a `Switch` widget to contr
 
 Here's what the app looks like in both states.
 
-| Off State | On State |
-| :---: | :---: |
-| <img src="screenshots/screenshot_off.png" alt="App in Off State" width="250"/> | <img src="screenshots/screenshot_on.png" alt="App in On State" width="250"/> |
+| Off State |&nbsp; &nbsp; &nbsp; &nbsp;| On State |
+| :---: |&nbsp; &nbsp; &nbsp; &nbsp;| :---: |
+| <img src="screenshots/screenshot_off.png" alt="App in Off State" width="250"/> |&nbsp; &nbsp; &nbsp; &nbsp;| <img src="screenshots/screenshot_on.png" alt="App in On State" width="250"/> |
